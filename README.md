@@ -16,9 +16,10 @@ Flowchart luas dan keliling lingkaran
 
 ![41c95fb9-63eb-4c39-b271-166a60c250c6](https://user-images.githubusercontent.com/115473865/198858137-3a19d798-60cb-428c-a56b-0be38d014891.jpg)
 
-4.Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
+4.Ketika dijalankan Inputkan Jari jari dan Berikut Hasi
 
-![hasil](https://user-images.githubusercontent.com/115473865/198858151-61281e75-0546-478d-b8fd-46e5b7a4972a.png)
+![414cb1f3-f350-40c0-8079-35a1d3fa5d72](https://user-images.githubusercontent.com/115473865/198859547-05eba52b-1ef9-4231-9341-3d9659e99208.jpg)
+
 
 5.Selesai Begitulah cara menghitung luas dan keliling Lingkaran
 
