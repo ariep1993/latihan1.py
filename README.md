@@ -1,4 +1,7 @@
+#PRATIKUM 3
+
 # Menghitung luas dan keliling lingkarn menggunakan Python
+
 Nama = saripudin
 
 Nim  = 312210077 
